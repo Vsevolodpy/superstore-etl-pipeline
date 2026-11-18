@@ -41,8 +41,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/Vsevolodpy/Database-data-analysis.git
-cd Database-data-analysis
+git clone https://github.com/Vsevolodpy/superstore-etl-pipeline.git
+cd superstore-etl-pipeline
 ```
 
 ### 2. Настройка виртуального окружения
